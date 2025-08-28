@@ -1,0 +1,70 @@
+JAVA SCRIPT NOTES
+
+There are 3 types of variables. var, let and const.
+var is function scoped. once it is declared in function, it can be used any where in the function even inside other blocks( {} ) like if, for.
+let is block scoped
+
+REACT NOTES
+
+ES6 (ECMA script)
+classes
+arrow functions
+variables
+array methods
+destructuing - it is easier way to assign values to the variables.
+spread operator - it allows us to quickly copy values from one array to another array
+modules - it allows us to breakup the code into separate files
+terenary operator - ternary operator is a simplified conditional operator
+
+
+1.React def - React is a java script library used to build single page web applications
+2.Library
+3.Es6 features 
+4.Feature of react
+
+5.Diff b/w DOM and Virtual Dom - DOM is document object model it is a tree like structure browser creates from html. It is stored in browser memory. 
+				 The virtual dom is copy of DOM when ever there are changes in the website the virtual dom is updated first  It then compares the updated Virtual DOM with 				 the previous one and caliculates the minimum changes required for actual dom.
+
+6.npm and npx - NPM is a package manager. It contains all the packages or dependencies required for our react app. Where npx runs the packages with out needing to install them (temporarily runs the package and deletes it when done.
+
+
+7.jsx - 
+
+
+8.components and types - components are reusables blocks of code. There are two types of components functional and class components. Functional components can be written using much less code and easier to understand.
+
+9.diff b/w class and function components
+
+10.props - props short form of properties are the data you send to a components. Using this we can pass data from one component to another. 
+
+11.events - event lets us repond to the user actions such as onclick, typing or submitting a form. It is represented in camel case and we use functions to handle events.
+
+12.conditionals - In react We can render a component on condition. such as if statement. We can use if condition to decide which component should render.
+
+13.lists - In react we can render lists using map() method. This method allows us to run a function on each list item.
+
+14.forms - Forms in React are used to collect user input. It uses controlled components to manage form state.
+
+15.react router - React apps usually have multiple pages (like Home, About, etc.).
+But React is a single-page app — it doesn't reload. So we use React Router to change the URL and content without reloading the page.
+
+16.rendering - Process of generating user interfaces.
+
+
+
+
+Hooks - Hooks is nothing but a normal javascript function. We use react hooks to create state variables in react.
+
+UseRef - We use useref hook when we want a variable to update but we dont want the whole component to rerender, then in that case we use useref.
+
+Usecallback - We use usecallback hook to memorize the function. It eliminates the need of recreating the function objects unless dependencies change.
+
+
+REACT TOPICS
+
+route
+conditional rendering
+features of react
+read about emit
+read about cdn
+read about cross origin

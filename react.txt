@@ -1,0 +1,30 @@
+JAVA SCRIPT NOTES
+
+There are 3 types of variables. var, let and const.
+var is function scoped. once it is declared in function, it can be used any where in the function even inside other blocks( {} ) like if, for.
+let is block scoped
+
+REACT NOTES
+
+ES6 (ECMA script)
+classes
+arrow functions
+variables
+array methods
+destructing - it is easier way to assign values to the variables.
+spread operator - it allows us to quickly copy values from one array to another array
+modules - it allows us to breakup the code into separate files
+
+
+
+
+
+
+REACT TOPICS
+
+route
+conditional rendering
+features of react
+read about emit
+read about cdn
+read about cross origin
